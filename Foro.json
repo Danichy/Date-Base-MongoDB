@@ -1,0 +1,172 @@
+[{
+  "_id": {
+    "$oid": "63c97abde47db7fa2cb25512"
+  },
+  "Producto_id": {
+    "$oid": "63c0c74b7caae815d26fcf92"
+  },
+  "Public": {
+    "$date": {
+      "$numberLong": "1673499600000"
+    }
+  },
+  "Anonimo": false,
+  "Comprador_id": {
+    "$oid": "63c0481d7caae815d26fcf88"
+  },
+  "Pregunta": "¿Cómo saber si los brazos axiales están malos?",
+  "Respuesta": {
+    "Public": {
+      "$date": {
+        "$numberLong": "1673499600000"
+      }
+    },
+    "Vendedor_id": {
+      "$oid": "63c0481d7caae815d26fcf8a"
+    },
+    "Comentario": "el vehículo emite ruidos cortos y agudos al pasar terrenos ásperos, así como ruidos cortos al pasar reductores de velocidad",
+    "Pregunta1": {
+      "Public": {
+        "$date": {
+          "$numberLong": "1673499600000"
+        }
+      },
+      "Anonimo": false,
+      "Comprador_id": {
+        "$oid": "63c0481d7caae815d26fcf88"
+      },
+      "Pregunta": "En caso de que el Braxo Axial salga defectuoso, ¿puedo hacer una devolucion?",
+      "Respuesta1": {
+        "Public": {
+          "$date": {
+            "$numberLong": "1673499600000"
+          }
+        },
+        "Vendedor_id": {
+          "$oid": "63c0481d7caae815d26fcf8a"
+        },
+        "Cometario": "Nos puede contactar al numero de la empresa y se hara la respectiva devolucion"
+      }
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63c97adae47db7fa2cb25513"
+  },
+  "Producto_id": {
+    "$oid": "63c0c74b7caae815d26fcf90"
+  },
+  "Public": {
+    "$date": {
+      "$numberLong": "1673499600000"
+    }
+  },
+  "Anonimo": false,
+  "Comprador_id": {
+    "$oid": "63c0481d7caae815d26fcf89"
+  },
+  "Pregunta": "¿Qué provoca el desgaste tan rapido del amortiguador?",
+  "Respuesta": {
+    "Public": {
+      "$date": {
+        "$numberLong": "1673499600000"
+      }
+    },
+    "Vendedor_id": {
+      "$oid": "63c0481d7caae815d26fcf82"
+    },
+    "Comentario": "La fricción, la antigüedad, las altas temperaturas, el esfuerzo por carga de peso y la exposición a la sal y el aceite pueden hacer que los silentblocks se agrieten y se desgasten.",
+    "Pregunta1": {
+      "Public": {
+        "$date": {
+          "$numberLong": "1673499600000"
+        }
+      },
+      "Anonimo": false,
+      "Comprador_id": {
+        "$oid": "63c0481d7caae815d26fcf89"
+      },
+      "Pregunta": "Gracias"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63c97c40e47db7fa2cb25517"
+  },
+  "Producto_id": {
+    "$oid": "63c0c74b7caae815d26fcf8f"
+  },
+  "Public": {
+    "$date": {
+      "$numberLong": "1673499600000"
+    }
+  },
+  "Anonimo": false,
+  "Comprador_id": {
+    "$oid": "63c0481d7caae815d26fcf85"
+  },
+  "Pregunta": "¿La goma de la base pierde la tensión y produce ruido en la parte superior de la rueda del auto?",
+  "Respuesta": {
+    "Public": {
+      "$date": {
+        "$numberLong": "1673499600000"
+      }
+    },
+    "Vendedor_id": {
+      "$oid": "63c0481d7caae815d26fcf86"
+    },
+    "Comentario": "Es normal que despues de cierto tiempo la goma se desgaste y pueda probocar ese ruido",
+    "Pregunta1": {
+      "Public": {
+        "$date": {
+          "$numberLong": "1673499600000"
+        }
+      },
+      "Anonimo": false,
+      "Comprador_id": {
+        "$oid": "63c0481d7caae815d26fcf85"
+      },
+      "Pregunta": "Gracias"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63c97d73ce54bc2437b0add8"
+  },
+  "Producto_id": {
+    "$oid": "63c0c74b7caae815d26fcf91"
+  },
+  "Public": {
+    "$date": {
+      "$numberLong": "1673499600000"
+    }
+  },
+  "Anonimo": false,
+  "Comprador_id": {
+    "$oid": "63c0481d7caae815d26fcf84"
+  },
+  "Pregunta": "¿Cuánto dura una rótula de suspensión?",
+  "Respuesta": {
+    "Public": {
+      "$date": {
+        "$numberLong": "1673499600000"
+      }
+    },
+    "Vendedor_id": {
+      "$oid": "63c0481d7caae815d26fcf8a"
+    },
+    "Comentario": "Pueden durar 110000 Km. o más, no son eternas",
+    "Pregunta1": {
+      "Public": {
+        "$date": {
+          "$numberLong": "1673499600000"
+        }
+      },
+      "Anonimo": false,
+      "Comprador_id": {
+        "$oid": "63c0481d7caae815d26fcf84"
+      },
+      "Pregunta": "Muchas Gracias"
+    }
+  }
+}]

@@ -1,0 +1,201 @@
+[{
+  "_id": {
+    "$oid": "63c0c74b7caae815d26fcf8f"
+  },
+  "Nombre": "Tapa Amortiguador Delanteri Chevrolet Aveo 1.4",
+  "Descripcion": "Marca de Vehiculo: chevrolet // Modelo: 2004-2014 // Posicion: Delantero",
+  "Foto": "https://iasociadas.vteximg.com.br/arquivos/ids/164082-1000-1000/000000000042596301_2.jpg?v=637937737026330000",
+  "Precio": 3313,
+  "Descuento": "5% en primera compra y envio gratis",
+  "Public": {
+    "$date": {
+      "$numberLong": "1673499600000"
+    }
+  },
+  "Update": {
+    "$date": {
+      "$numberLong": "1673499600000"
+    }
+  },
+  "Stock": 4256,
+  "Disponibilidad": true,
+  "Categoria": "Direccion y Suspencion",
+  "Persona_id": {
+    "$oid": "63c0481d7caae815d26fcf86"
+  }
+},{
+  "_id": {
+    "$oid": "63c0c74b7caae815d26fcf90"
+  },
+  "Nombre": "Amortiguador Tucson",
+  "Descripcion": "Amortiguador",
+  "Foto": "https://iasociadas.vteximg.com.br/arquivos/ids/183245-1000-1000/54660D9200--_2.jpg?v=638066429465300000",
+  "Precio": 413012,
+  "Descuento": "5% en primera compra y envio gratis",
+  "Public": {
+    "$date": {
+      "$numberLong": "1673499600000"
+    }
+  },
+  "Update": {
+    "$date": {
+      "$numberLong": "1673499600000"
+    }
+  },
+  "Stock": 123,
+  "Disponibilidad": true,
+  "Categoria": "Direccion y Suspencion",
+  "Persona_id": {
+    "$oid": "63c0481d7caae815d26fcf82"
+  }
+},{
+  "_id": {
+    "$oid": "63c0c74b7caae815d26fcf91"
+  },
+  "Nombre": "Rotula Suspension Tijera Inf Derecha Amarok",
+  "Descripcion": "Marca de Vehiculo: volkswagen",
+  "Foto": "https://iasociadas.vteximg.com.br/arquivos/ids/180487-1000-1000/2H0407366-_2.jpg?v=637986092689600000",
+  "Precio": 49649,
+  "Descuento": "5% en primera compra y envio gratis",
+  "Public": {
+    "$date": {
+      "$numberLong": "1673499600000"
+    }
+  },
+  "Update": {
+    "$date": {
+      "$numberLong": "1673499600000"
+    }
+  },
+  "Stock": 432,
+  "Disponibilidad": true,
+  "Categoria": "Direccion y Suspencion",
+  "Persona_id": {
+    "$oid": "63c0481d7caae815d26fcf8a"
+  }
+},{
+  "_id": {
+    "$oid": "63c0c74b7caae815d26fcf92"
+  },
+  "Nombre": "Braxo Axial Caja de Direccion Volkswagen Bora, New Jetta",
+  "Descripcion": "Marca de Vehiculo: Volkswagen // Transmision: automatica, manual",
+  "Foto": "https://iasociadas.vteximg.com.br/arquivos/ids/172964-1000-1000/1K0423810A-_2.jpg?v=637776193154930000",
+  "Precio": 58186,
+  "Descuento": "5% en primera compra y envio gratis",
+  "Public": {
+    "$date": {
+      "$numberLong": "1673499600000"
+    }
+  },
+  "Update": {
+    "$date": {
+      "$numberLong": "1673499600000"
+    }
+  },
+  "Stock": 543,
+  "Disponibilidad": true,
+  "Categoria": "Direccion y Suspencion",
+  "Persona_id": {
+    "$oid": "63c0481d7caae815d26fcf8a"
+  }
+},{
+  "_id": {
+    "$oid": "63c0c7d87caae815d26fcf97"
+  },
+  "Nombre": "Kit Embrague Volkswagen Gol 1.6",
+  "Descripcion": "Marca de Vehiculo: volkswwagen // Transmision: automatica, manual",
+  "Foto": "https://iasociadas.vteximg.com.br/arquivos/ids/173882-1000-1000/SPA198015B--_2.jpg?v=637776196036070000",
+  "Precio": 604740,
+  "Descuento": "5% en primera compra y envio gratis",
+  "Public": {
+    "$date": {
+      "$numberLong": "1673499600000"
+    }
+  },
+  "Update": {
+    "$date": {
+      "$numberLong": "1673499600000"
+    }
+  },
+  "Stock": 100,
+  "Disponibilidad": true,
+  "Categoria": "Clutch",
+  "Persona_id": {
+    "$oid": "63c0481d7caae815d26fcf8a"
+  }
+},{
+  "_id": {
+    "$oid": "63c0c7d87caae815d26fcf98"
+  },
+  "Nombre": "Bomba Principal Clutch Revolution 1X35",
+  "Descripcion": "Marca de Vehiculo: hyunday // Modelo: 2010-2015 // Cilindraje: 2000 // Transmiion: manual",
+  "Foto": "https://iasociadas.vteximg.com.br/arquivos/ids/181991-1000-1000/416052S000-2.jpg?v=638023202567500000",
+  "Precio": 239000,
+  "Descuento": "5% en primera compra y envio gratis",
+  "Public": {
+    "$date": {
+      "$numberLong": "1673499600000"
+    }
+  },
+  "Update": {
+    "$date": {
+      "$numberLong": "1673499600000"
+    }
+  },
+  "Stock": 76,
+  "Disponibilidad": true,
+  "Categoria": "Clutch",
+  "Persona_id": {
+    "$oid": "63c0481d7caae815d26fcf8a"
+  }
+},{
+  "_id": {
+    "$oid": "63c0c7d87caae815d26fcf99"
+  },
+  "Nombre": "Guaya Clutch Grand I10",
+  "Descripcion": "Marca de Vehiculo: hyundai // Modelo: 2016-2021 // Tranismision: manual",
+  "Foto": "https://iasociadas.vteximg.com.br/arquivos/ids/177156-1000-1000/41510-B4000_2.jpg?v=637958558491270000",
+  "Precio": 320014,
+  "Descuento": "5% en primera compra y envio gratis",
+  "Public": {
+    "$date": {
+      "$numberLong": "1673499600000"
+    }
+  },
+  "Update": {
+    "$date": {
+      "$numberLong": "1673499600000"
+    }
+  },
+  "Stock": 230,
+  "Disponibilidad": true,
+  "Categoria": "Clutch",
+  "Persona_id": {
+    "$oid": "63c0481d7caae815d26fcf82"
+  }
+},{
+  "_id": {
+    "$oid": "63c0c7d87caae815d26fcf9a"
+  },
+  "Nombre": "Bomba Principal Clutch Grand Starex",
+  "Descripcion": "Marca de Vehiculo: hyundai // Modelo: 2009-2016 // Transmision: manual",
+  "Foto": "https://iasociadas.vteximg.com.br/arquivos/ids/181978-1000-1000/41600-4H100-_2.jpg?v=638023202537900000",
+  "Precio": 261911,
+  "Descuento": "5% en primera compra y envio gratis",
+  "Public": {
+    "$date": {
+      "$numberLong": "1673499600000"
+    }
+  },
+  "Update": {
+    "$date": {
+      "$numberLong": "1673499600000"
+    }
+  },
+  "Stock": 124,
+  "Disponibilidad": true,
+  "Categoria": "Clutch",
+  "Persona_id": {
+    "$oid": "63c0481d7caae815d26fcf8a"
+  }
+}]

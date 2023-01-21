@@ -1,0 +1,481 @@
+[{
+  "_id": {
+    "$oid": "63c96c6de47db7fa2cb25508"
+  },
+  "Producto_id": {
+    "$oid": "63c0c74b7caae815d26fcf90"
+  },
+  "Valoraciones": [
+    {
+      "Public": {
+        "$date": {
+          "$numberLong": "1673499600000"
+        }
+      },
+      "Anonimo": false,
+      "Persona_id": {
+        "$oid": "63c0481d7caae815d26fcf88"
+      },
+      "Calificacion": 1,
+      "Comentario": "Exceso rebote del carro"
+    },
+    {
+      "Public": {
+        "$date": {
+          "$numberLong": "1673499600000"
+        }
+      },
+      "Anonimo": true,
+      "Persona_id": "",
+      "Calificacion": 5,
+      "Comentario": "presenta una buena nivelacion del carro y no rebote mucho"
+    },
+    {
+      "Public": {
+        "$date": {
+          "$numberLong": "1673499600000"
+        }
+      },
+      "Anonimo": false,
+      "Persona_id": {
+        "$oid": "63c0481d7caae815d26fcf83"
+      },
+      "Calificacion": 4,
+      "Comentario": "Duren bastante pero presenta ruidos extraños al pasar baches"
+    },
+    {
+      "Public": {
+        "$date": {
+          "$numberLong": "1673499600000"
+        }
+      },
+      "Anonimo": false,
+      "Persona_id": {
+        "$oid": "63c0481d7caae815d26fcf85"
+      },
+      "Calificacion": 5,
+      "Comentario": "No se nota un rebote excesivo, y al conducir el tiempo de frenado es normal"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63c96c5e97105361fd361dd0"
+  },
+  "Producto_id": {
+    "$oid": "63c0c74b7caae815d26fcf8f"
+  },
+  "Valoraciones": [
+    {
+      "Public": {
+        "$date": {
+          "$numberLong": "1673499600000"
+        }
+      },
+      "Anonimo": false,
+      "Persona_id": {
+        "$oid": "63c0481d7caae815d26fcf89"
+      },
+      "Calificacion": 2,
+      "Comentario": "Se desgasta muy rapido"
+    },
+    {
+      "Public": {
+        "$date": {
+          "$numberLong": "1673499600000"
+        }
+      },
+      "Anonimo": false,
+      "Persona_id": {
+        "$oid": "63c0481d7caae815d26fcf84"
+      },
+      "Calificacion": 1,
+      "Comentario": "Presenta fallas, porque rebota mucho"
+    },
+    {
+      "Public": {
+        "$date": {
+          "$numberLong": "1673499600000"
+        }
+      },
+      "Anonimo": false,
+      "Persona_id": {
+        "$oid": "63c0481d7caae815d26fcf85"
+      },
+      "Calificacion": 2,
+      "Comentario": "Suspension demasiado dura"
+    },
+    {
+      "Public": {
+        "$date": {
+          "$numberLong": "1673499600000"
+        }
+      },
+      "Anonimo": false,
+      "Persona_id": {
+        "$oid": "63c0481d7caae815d26fcf87"
+      },
+      "Calificacion": 1,
+      "Comentario": "Se desgastan los neumaticos de forma irregular"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63c96f28e47db7fa2cb25509"
+  },
+  "Producto_id": {
+    "$oid": "63c0c74b7caae815d26fcf92"
+  },
+  "Valoraciones": [
+    {
+      "Public": {
+        "$date": {
+          "$numberLong": "1673499600000"
+        }
+      },
+      "Anonimo": false,
+      "Persona_id": {
+        "$oid": "63c0481d7caae815d26fcf89"
+      },
+      "Calificacion": 2,
+      "Comentario": "Se encuentran fallas ya que se prensenta desviacion en el volante "
+    },
+    {
+      "Public": {
+        "$date": {
+          "$numberLong": "1673499600000"
+        }
+      },
+      "Anonimo": false,
+      "Persona_id": {
+        "$oid": "63c0481d7caae815d26fcf88"
+      },
+      "Calificacion": 1,
+      "Comentario": "Hace que el volante se sienta suelto"
+    },
+    {
+      "Public": {
+        "$date": {
+          "$numberLong": "1673499600000"
+        }
+      },
+      "Anonimo": false,
+      "Persona_id": {
+        "$oid": "63c0481d7caae815d26fcf87"
+      },
+      "Calificacion": 1,
+      "Comentario": "Desgaste desigual de los neumáticos"
+    },
+    {
+      "Public": {
+        "$date": {
+          "$numberLong": "1673499600000"
+        }
+      },
+      "Anonimo": true,
+      "Persona_id": "",
+      "Calificacion": 2,
+      "Comentario": "Volante descentrado."
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63c970cbe47db7fa2cb2550a"
+  },
+  "Producto_id": {
+    "$oid": "63c0c7d87caae815d26fcf98"
+  },
+  "Valoraciones": [
+    {
+      "Public": {
+        "$date": {
+          "$numberLong": "1673499600000"
+        }
+      },
+      "Anonimo": false,
+      "Persona_id": {
+        "$oid": "63c0481d7caae815d26fcf88"
+      },
+      "Calificacion": 5,
+      "Comentario": "El pedal de embrague estabilizado, no se encuentra flojo"
+    },
+    {
+      "Public": {
+        "$date": {
+          "$numberLong": "1673499600000"
+        }
+      },
+      "Anonimo": true,
+      "Persona_id": "",
+      "Calificacion": 4,
+      "Comentario": "El pedal no se siente flojo, pero presenta ruido inusual en el motor."
+    },
+    {
+      "Public": {
+        "$date": {
+          "$numberLong": "1673499600000"
+        }
+      },
+      "Anonimo": false,
+      "Persona_id": {
+        "$oid": "63c0481d7caae815d26fcf85"
+      },
+      "Calificacion": 3,
+      "Comentario": "Se siente el pedal de embrague flojo."
+    },
+    {
+      "Public": {
+        "$date": {
+          "$numberLong": "1673499600000"
+        }
+      },
+      "Anonimo": false,
+      "Persona_id": {
+        "$oid": "63c0481d7caae815d26fcf88"
+      },
+      "Calificacion": 3,
+      "Comentario": "Problemas para cambiar la marcha."
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63c9727fe47db7fa2cb2550b"
+  },
+  "Producto_id": {
+    "$oid": "63c0c7d87caae815d26fcf9a"
+  },
+  "Valoraciones": [
+    {
+      "Public": {
+        "$date": {
+          "$numberLong": "1673499600000"
+        }
+      },
+      "Anonimo": false,
+      "Persona_id": {
+        "$oid": "63c0481d7caae815d26fcf89"
+      },
+      "Calificacion": 2,
+      "Comentario": "Presenta ruido inusual en el motor"
+    },
+    {
+      "Public": {
+        "$date": {
+          "$numberLong": "1673499600000"
+        }
+      },
+      "Anonimo": false,
+      "Persona_id": {
+        "$oid": "63c0481d7caae815d26fcf83"
+      },
+      "Calificacion": 2,
+      "Comentario": "Contaminación en el líquido de frenos"
+    },
+    {
+      "Public": {
+        "$date": {
+          "$numberLong": "1673499600000"
+        }
+      },
+      "Anonimo": false,
+      "Persona_id": {
+        "$oid": "63c0481d7caae815d26fcf85"
+      },
+      "Calificacion": 2,
+      "Comentario": "Pedal del embrague se encuentra flojo"
+    },
+    {
+      "Public": {
+        "$date": {
+          "$numberLong": "1673499600000"
+        }
+      },
+      "Anonimo": false,
+      "Persona_id": {
+        "$oid": "63c0481d7caae815d26fcf88"
+      },
+      "Calificacion": 1,
+      "Comentario": "El pedal se atasca"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63c9709097105361fd361dd1"
+  },
+  "Producto_id": {
+    "$oid": "63c0c74b7caae815d26fcf91"
+  },
+  "Valoraciones": [
+    {
+      "Public": {
+        "$date": {
+          "$numberLong": "1673499600000"
+        }
+      },
+      "Anonimo": false,
+      "Persona_id": {
+        "$oid": "63c0481d7caae815d26fcf89"
+      },
+      "Calificacion": 1,
+      "Comentario": "Se desgastada muy rapido, afecta a la dirección, que se vuelve imprecisa y errática."
+    },
+    {
+      "Public": {
+        "$date": {
+          "$numberLong": "1673499600000"
+        }
+      },
+      "Anonimo": true,
+      "Persona_id": "",
+      "Calificacion": 5,
+      "Comentario": "Duran mucho y es muy precisa en la direccion"
+    },
+    {
+      "Public": {
+        "$date": {
+          "$numberLong": "1673499600000"
+        }
+      },
+      "Anonimo": false,
+      "Persona_id": {
+        "$oid": "63c0481d7caae815d26fcf85"
+      },
+      "Calificacion": 5,
+      "Comentario": "Tiene muy buena duracion"
+    },
+    {
+      "Public": {
+        "$date": {
+          "$numberLong": "1673499600000"
+        }
+      },
+      "Anonimo": false,
+      "Persona_id": {
+        "$oid": "63c0481d7caae815d26fcf83"
+      },
+      "Calificacion": 5,
+      "Comentario": "Haguanta bastante tiempo, y a la hora de dar direccion es muy precisa"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63c9732497105361fd361dd2"
+  },
+  "Producto_id": {
+    "$oid": "63c0c7d87caae815d26fcf97"
+  },
+  "Valoraciones": [
+    {
+      "Public": {
+        "$date": {
+          "$numberLong": "1673499600000"
+        }
+      },
+      "Anonimo": false,
+      "Persona_id": {
+        "$oid": "63c0481d7caae815d26fcf85"
+      },
+      "Calificacion": 3,
+      "Comentario": "Síntomas de desgaste del embrague"
+    },
+    {
+      "Public": {
+        "$date": {
+          "$numberLong": "1673499600000"
+        }
+      },
+      "Anonimo": false,
+      "Persona_id": {
+        "$oid": "63c0481d7caae815d26fcf84"
+      },
+      "Calificacion": 4,
+      "Comentario": "El pedal no se atasca y tiene buena duracion"
+    },
+    {
+      "Public": {
+        "$date": {
+          "$numberLong": "1673499600000"
+        }
+      },
+      "Anonimo": false,
+      "Persona_id": {
+        "$oid": "63c0481d7caae815d26fcf83"
+      },
+      "Calificacion": 5,
+      "Comentario": "No acasua ningun ruido durante el cambio de velocidades"
+    },
+    {
+      "Public": {
+        "$date": {
+          "$numberLong": "1673499600000"
+        }
+      },
+      "Anonimo": false,
+      "Persona_id": {
+        "$oid": "63c0481d7caae815d26fcf89"
+      },
+      "Calificacion": 4,
+      "Comentario": "Tiene buena duracion y funciona el sistema de preseion del embrague"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63c975cb97105361fd361dd3"
+  },
+  "Producto_id": {
+    "$oid": "63c0c7d87caae815d26fcf99"
+  },
+  "Valoraciones": [
+    {
+      "Public": {
+        "$date": {
+          "$numberLong": "1673499600000"
+        }
+      },
+      "Anonimo": false,
+      "Persona_id": {
+        "$oid": "63c0481d7caae815d26fcf89"
+      },
+      "Calificacion": 5,
+      "Comentario": "Cumple su funcion"
+    },
+    {
+      "Public": {
+        "$date": {
+          "$numberLong": "1673499600000"
+        }
+      },
+      "Anonimo": false,
+      "Persona_id": {
+        "$oid": "63c0481d7caae815d26fcf88"
+      },
+      "Calificacion": 5,
+      "Comentario": "Es muy bueno el producto"
+    },
+    {
+      "Public": {
+        "$date": {
+          "$numberLong": "1673499600000"
+        }
+      },
+      "Anonimo": false,
+      "Persona_id": {
+        "$oid": "63c0481d7caae815d26fcf89"
+      },
+      "Calificacion": 5,
+      "Comentario": "Resiste bastante y es muy buen producto"
+    },
+    {
+      "Public": {
+        "$date": {
+          "$numberLong": "1673499600000"
+        }
+      },
+      "Anonimo": false,
+      "Persona_id": {
+        "$oid": "63c0481d7caae815d26fcf87"
+      },
+      "Calificacion": 3,
+      "Comentario": "noto que el pedal de embrague está muy duro"
+    }
+  ]
+}]

@@ -1,0 +1,195 @@
+[{
+  "_id": {
+    "$oid": "63c0481d7caae815d26fcf87"
+  },
+  "Nombre": "Muhammad Buye",
+  "Documento": 509654031,
+  "fecha": {
+    "$date": {
+      "$numberLong": "203144400000"
+    }
+  },
+  "Correo": "mbuye5@gmail.com",
+  "Telefono": {
+    "$numberLong": "5348700894"
+  },
+  "Tipo": "Comprador",
+  "Departamento": "Santander",
+  "Ciudad": "Bucaramanga",
+  "Direccion": "34603 Truax Road",
+  "Twitter": "@Muhabuy",
+  "Facebook": "Muhammad Buye",
+  "Instragram": "@Muhabuy"
+},{
+  "_id": {
+    "$oid": "63c0481d7caae815d26fcf89"
+  },
+  "Nombre": "Johny Chicken",
+  "Documento": 320544297,
+  "fecha": {
+    "$date": {
+      "$numberLong": "971413200000"
+    }
+  },
+  "Correo": "jchicken7@gmail.com",
+  "Telefono": 1380019222,
+  "Tipo": "Comprador",
+  "Departamento": "Santander",
+  "Ciudad": "Bucaramanga",
+  "Direccion": "32590 Amoth Center",
+  "Twitter": "@Johnchick",
+  "Facebook": "Johny Chicken",
+  "Instragram": "@Johnchick"
+},{
+  "_id": {
+    "$oid": "63c0481d7caae815d26fcf85"
+  },
+  "Nombre": "Kerry Vicarey",
+  "Documento": 789830486,
+  "fecha": {
+    "$date": {
+      "$numberLong": "72766800000"
+    }
+  },
+  "Correo": "kvicarey3@gmial.com",
+  "Telefono": {
+    "$numberLong": "6292393828"
+  },
+  "Tipo": "Comprador",
+  "Departamento": "Santander",
+  "Ciudad": "Bucaramanga",
+  "Direccion": "92802 Pennsylvania Point",
+  "Twitter": "@KerrVi",
+  "Facebook": "Kerry Vicarey",
+  "Instragram": "@KerrVi"
+},{
+  "_id": {
+    "$oid": "63c0481d7caae815d26fcf86"
+  },
+  "Nombre": "Zebulen Merington",
+  "Documento": 889849564,
+  "fecha": {
+    "$date": {
+      "$numberLong": "346914000000"
+    }
+  },
+  "Correo": "zmerington4@gmail.com",
+  "Telefono": {
+    "$numberLong": "4274613534"
+  },
+  "Tipo": "Vendedor",
+  "Departamento": "Santander",
+  "Ciudad": "Bucaramanga",
+  "Direccion": "1 Chive Crossing",
+  "Twitter": "@zebmerin",
+  "Facebook": "Zebulen Merington",
+  "Instragram": "@zebmerin"
+},{
+  "_id": {
+    "$oid": "63c0481d7caae815d26fcf84"
+  },
+  "Nombre": "Baird Klehyn",
+  "Documento": 320045807,
+  "fecha": {
+    "$date": {
+      "$numberLong": "-126385200000"
+    }
+  },
+  "Correo": "bklehyn2@gmail.com",
+  "Telefono": 1101382805,
+  "Tipo": "Comprador",
+  "Departamento": "Santander",
+  "Ciudad": "Bucaramanga",
+  "Direccion": "46014 Spohn Lane",
+  "Twitter": "@Baird-kle",
+  "Facebook": "Baird Klehyn",
+  "Instragram": "@Baird-kle"
+},{
+  "_id": {
+    "$oid": "63c0481d7caae815d26fcf8a"
+  },
+  "Nombre": "Hussein Wenderott",
+  "Documento": 177497388,
+  "fecha": {
+    "$date": {
+      "$numberLong": "-36442800000"
+    }
+  },
+  "Correo": "hwenderott8@gmail.com",
+  "Telefono": {
+    "$numberLong": "4685808738"
+  },
+  "Tipo": "Vendedor",
+  "Departamento": "Santander",
+  "Ciudad": "Bucaramanga",
+  "Direccion": "0307 Cardinal Way",
+  "Twitter": "@Husswen3",
+  "Facebook": "Hussein Wenderott",
+  "Instragram": "@Husswen3"
+},{
+  "_id": {
+    "$oid": "63c0481d7caae815d26fcf83"
+  },
+  "Nombre": "Amalita Maciejewski",
+  "Documento": 526245921,
+  "fecha": {
+    "$date": {
+      "$numberLong": "522997200000"
+    }
+  },
+  "Correo": "amaciejewski1@gmail.com",
+  "Telefono": {
+    "$numberLong": "2771118823"
+  },
+  "Tipo": "Comprador",
+  "Departamento": "Santander",
+  "Ciudad": "Bucaramanga",
+  "Direccion": "147 Mendota Avenue",
+  "Twitter": "@amamac",
+  "Facebook": "Amalita Maciejewski",
+  "Instragram": "@amamac"
+},{
+  "_id": {
+    "$oid": "63c0481d7caae815d26fcf82"
+  },
+  "Nombre": "Frannie Chaundy",
+  "Documento": 268961755,
+  "fecha": {
+    "$date": {
+      "$numberLong": "603694800000"
+    }
+  },
+  "Correo": "fchaundy0@gmail.com",
+  "Telefono": {
+    "$numberLong": "4160793843"
+  },
+  "Tipo": "Vendedor",
+  "Departamento": "Santander",
+  "Ciudad": "Bucaramanga",
+  "Direccion": "67 Fuller Parkway",
+  "Twitter": "@franchau",
+  "Facebook": "Frannie Chaundy",
+  "Instragram": "@franchau"
+},{
+  "_id": {
+    "$oid": "63c0481d7caae815d26fcf88"
+  },
+  "Nombre": "Chicky Peirazzi",
+  "Documento": 504460666,
+  "fecha": {
+    "$date": {
+      "$numberLong": "1034053200000"
+    }
+  },
+  "Correo": "cpeirazzi6@gmail.com",
+  "Telefono": {
+    "$numberLong": "3236250313"
+  },
+  "Tipo": "Comprador",
+  "Departamento": "Santander",
+  "Ciudad": "Bucaramanga",
+  "Direccion": "2 Glendale Way",
+  "Twitter": "@chicky666",
+  "Facebook": "Chicky Peirazzi",
+  "Instragram": "@chicky666"
+}]
